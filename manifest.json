@@ -1,0 +1,17 @@
+{
+  "name": "Morning Passage",
+  "short_name": "Morning",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1a2420",
+  "theme_color": "#1f2a24",
+  "description": "A daily morning Bible passage in English.",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
